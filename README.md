@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding and Desining
 - 🌱 I’m currently learning somthing that can change myself
 - 💞️ I’m looking to collaborate on what you are expecting from me
-- 📫 You cna reach me through itsmearundasofficial@gmail.com
+- 📫 You can reach me through itsmearundasofficial@gmail.com
 - ⚡ Fun fact: I want to settle in Switzerland.
 
 <!---
