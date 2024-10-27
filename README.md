@@ -1,45 +1,5 @@
 <html>
   <head>
-    <style>
-        body {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-            margin: 0;
-            background-color: #282c34;
-        }
-
-        h1 {
-            font-size: 3rem;
-            color: white;
-            position: relative;
-            animation: move 5s linear infinite;
-        }
-
-        @keyframes move {
-            0% {
-                transform: translate(0, 0);
-                color: #ff6f61;
-            }
-            25% {
-                transform: translate(100px, -100px);
-                color: #6a5acd;
-            }
-            50% {
-                transform: translate(-100px, 100px);
-                color: #3cb371;
-            }
-            75% {
-                transform: translate(100px, 100px);
-                color: #ffa07a;
-            }
-            100% {
-                transform: translate(0, 0);
-                color: #ff6f61;
-            }
-        }
-    </style>
   </head>
   <body>
     <h1 class="animated" align="center">Hi 👋, I'm ARUN DAS</h1>
