@@ -1,12 +1,5 @@
 <html>
   <head>
-    <style> 
-    .skills{
-      display: flex;
-      flex-direction: row;
-      justify-content: space-between;
-    }     
-    </style>
   </head>
   <body>
     <h1 align="center"font-size= "3rem" color= "white" transition= "transform 0.3s ease" >Hi 👋, I'm ARUN DAS</h1>
