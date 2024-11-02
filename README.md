@@ -7,9 +7,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href=" https://itsmearundas.github.io/myweb/">my</a>
 <a href="https://www.linkedin.com/in/itsmearundas-kunnel/" target="blank"><img align="center" src="./images/icon-linkedin.png" alt="itsmearundas" height="50" width="50" /></a>
-<a href=" https://itsmearundas.github.io/myweb/" target="blank"><img align="center" src="./images/icon-website.png" alt="itsmearundas" height="50" width="50" /></a>
+<a href="https://itsmearundas.github.io/myweb/" target="blank"><img align="center" src="./images/icon-website.png" alt="itsmearundas" height="50" width="50" /></a>
 <a href=mailto:"itsmearundasofficial@gmail.com" target="blank"><img align="center" src="./images/icon-email.png" alt="itsmearundas" height="50" width="50" /></a>
 <a href="https://instagram.com/itsmearundas" target="blank"><img align="center" src="./images/icon-instagram.png" alt="itsmearundas" height="50" width="50" /></a>
 </p>
