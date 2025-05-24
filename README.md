@@ -1,4 +1,6 @@
+
 # Hey there! 👋 I'm **Arun Das**
+
 
 <div align="center">
  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=440&lines=Aspiring+Software+Developer;Aspiring+Mobile+App+Developer;Aspiring+Web+Developer;Aspiring+AI+Enthusiast" alt="Typing SVG" />
@@ -43,46 +45,33 @@
 
 ## ⚡ **Core Technologies**
 
-<table align="center" style="border: none; border-collapse: collapse;">
-<tr style="border: none;">
-<td align="center" width="33%" style="border: none; padding: 20px;">
-<h3>🚀 <strong>Languages</strong></h3>
-<br>
-<img src="https://skillicons.dev/icons?i=java" />
-
-<img src="https://skillicons.dev/icons?i=kotlin" />
-<img src="https://skillicons.dev/icons?i=python" />
-
-
-<br><br>
-
-</td>
-<td align="center" width="33%" style="border: none; padding: 20px;">
-<h3>⚛️ <strong>Web Tech</strong></h3>
-<br>
-<img src="https://skillicons.dev/icons?i=html" />
-<img src="https://skillicons.dev/icons?i=css" />
-<img src="https://skillicons.dev/icons?i=js" />
-<br><br>
-
-</td>
-<td align="center" width="33%" style="border: none; padding: 20px;">
-<h3>⚛️ <strong>Frameworks</strong></h3>
-<br>
-<img src="https://skillicons.dev/icons?i=react" />
-<img src="https://skillicons.dev/icons?i=nodejs" />
-<br><br>
-
-</td>
-<td align="center" width="33%" style="border: none; padding: 20px;">
-<h3>🗄️ <strong>Databases</strong></h3>
-<br>
-<img src="https://skillicons.dev/icons?i=mysql,sqlite" />
-<br><br>
-
-</td>
-</tr>
+<table align="center">
+  <tr>
+    <td align="center" width="25%">
+      <h3>🚀 <strong>Languages</strong></h3>
+      <img src="https://skillicons.dev/icons?i=java" />
+      <img src="https://skillicons.dev/icons?i=kotlin" />
+      <img src="https://skillicons.dev/icons?i=python" />
+    </td>
+    <td align="center" width="25%">
+      <h3>⚛️ <strong>Web Technologies</strong></h3>
+      <img src="https://skillicons.dev/icons?i=html" />
+      <img src="https://skillicons.dev/icons?i=css" />
+      <img src="https://skillicons.dev/icons?i=js" />
+    </td>
+    <td align="center" width="25%">
+      <h3>⚛️ <strong>Frameworks</strong></h3>
+      <img src="https://skillicons.dev/icons?i=react" />
+      <img src="https://skillicons.dev/icons?i=nodejs" />
+    </td>
+    <td align="center" width="25%">
+      <h3>🗄️ <strong>Databases</strong></h3>
+      <img src="https://skillicons.dev/icons?i=mysql" />
+      <img src="https://skillicons.dev/icons?i=sqlite" />
+    </td>
+  </tr>
 </table>
+
 
 <br>
 
@@ -307,31 +296,13 @@
 
 <br>
 
----
 
-<div align="center">
-
-*"Great opportunities come to those who network and collaborate!"*
-
-</div>
-
-<br>
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=itsmearundas&style=for-the-badge&color=brightgreen" alt="Profile Views" />
-</div>
-
-<br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&text=&fontSize=0" />
-
-</div>
 
 ---
 
 <div align="center">
   
-  **✨ Open for internship opportunities and collaborations ✨**
+  **✨ Open for Job opportunities, internship opportunities and collaborations ✨**
   
   ![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
   
