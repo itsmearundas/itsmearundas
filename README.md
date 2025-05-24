@@ -149,7 +149,7 @@
 ### 🌐 **EchoBoard**
 #### *Web Platform*
 
-<img src="https://img.shields.io/badge/STATUS-ACTIVE-00C851?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/STATUS-COMPLETED-00C851?style=for-the-badge&logoColor=white" />
 
 <br>
 
