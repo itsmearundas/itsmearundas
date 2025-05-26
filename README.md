@@ -20,10 +20,10 @@
 
  <ul>
                     <li><b>🎓 Education:</b> MCA Final Year Student</li>
-                    <li><b>🏛️ College:</b> Mar Athanasius College of Engineering</li>
+                    <li><b>🏛️ College:</b> Mar Athanasius College of Engineering, Eranakulam</li>
                     <li><b>📍 Location:</b> Kattappana, Kerala, India</li>
                     <li><b>🌱 Currently Learning:</b> Advanced AI & Machine Learning</li>
-                    <li><b>💼 Looking for:</b> Job & Internship Opportunities</li>
+                    
                     
    </ul>
 
