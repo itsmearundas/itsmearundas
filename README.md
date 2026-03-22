@@ -277,9 +277,9 @@ Type  : Full-Stack Web Platform
 
 <!-- ═══════════════ FOOTER — matches portfolio footer ═══════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0118,50:130d2e,100:1a0a3e&height=120&section=header&text=&fontSize=0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4b2fff,30:5b30f5,60:6a25f0,100:3d00e0&height=140&section=header&text=&fontSize=0" width="100%"/>
 
-<div align="center">
+<div align="center" style="background: linear-gradient(180deg, #4b2fff, #3d00e0); padding: 32px 0;">
 
 <br/>
 
@@ -288,24 +288,18 @@ Type  : Full-Stack Web Platform
 <br/>
 
 <a href="https://linkedin.com/in/itsmearundas-kunnel" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-LinkedIn-1a0a3e?style=for-the-badge&logo=linkedin&logoColor=7c6fe0&labelColor=130d2e" height="44"/>
+  <img src="https://img.shields.io/badge/-LinkedIn-5b30f5?style=for-the-badge&logo=linkedin&logoColor=c4b5fd&labelColor=4b2fff" height="44"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/itsmearundas" title="GitHub">
-  <img src="https://img.shields.io/badge/-GitHub-1a0a3e?style=for-the-badge&logo=github&logoColor=9d8df5&labelColor=130d2e" height="44"/>
+  <img src="https://img.shields.io/badge/-GitHub-5b30f5?style=for-the-badge&logo=github&logoColor=ddd6fe&labelColor=4b2fff" height="44"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://twitter.com/" title="Twitter">
-  <img src="https://img.shields.io/badge/-Twitter-1a0a3e?style=for-the-badge&logo=twitter&logoColor=7c6fe0&labelColor=130d2e" height="44"/>
+  <img src="https://img.shields.io/badge/-Twitter-5b30f5?style=for-the-badge&logo=twitter&logoColor=c4b5fd&labelColor=4b2fff" height="44"/>
 </a>
 &nbsp;&nbsp;
-<a href="https://instagram.com/" title="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-1a0a3e?style=for-the-badge&logo=instagram&logoColor=9d8df5&labelColor=130d2e" height="44"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://medium.com/" title="Medium">
-  <img src="https://img.shields.io/badge/-Medium-1a0a3e?style=for-the-badge&logo=medium&logoColor=7c6fe0&labelColor=130d2e" height="44"/>
-</a>
+
 
 <br/><br/>
 
@@ -315,4 +309,4 @@ Type  : Full-Stack Web Platform
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0a3e,50:130d2e,100:0a0118&height=120&section=footer&text=&fontSize=0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3d00e0,40:4b2fff,70:5b30f5,100:6a25f0&height=140&section=footer&text=&fontSize=0" width="100%"/>
