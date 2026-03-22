@@ -271,26 +271,48 @@ Type  : Full-Stack Web Platform
  └─────────────────────────────────────────────────────┘
 ```
 
-<br/>
-
-<a href="https://linkedin.com/in/itsmearundas-kunnel">
-  <img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="mailto:itsmearundasofficial@gmail.com">
-  <img src="https://img.shields.io/badge/Send_Me_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
 </div>
 
 ---
 
+<!-- ═══════════════ FOOTER — matches portfolio footer ═══════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0118,50:130d2e,100:1a0a3e&height=120&section=header&text=&fontSize=0" width="100%"/>
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0a2e,100:0d0d0d&height=80&section=footer&text=&fontSize=0"/>
+<br/>
 
-_"Building systems that think. Engineering products that last."_
+### Connect with me through these platforms
 
-**Arun Das · 2025**
+<br/>
+
+<a href="https://linkedin.com/in/itsmearundas-kunnel" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-LinkedIn-1a0a3e?style=for-the-badge&logo=linkedin&logoColor=7c6fe0&labelColor=130d2e" height="44"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/itsmearundas" title="GitHub">
+  <img src="https://img.shields.io/badge/-GitHub-1a0a3e?style=for-the-badge&logo=github&logoColor=9d8df5&labelColor=130d2e" height="44"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://twitter.com/" title="Twitter">
+  <img src="https://img.shields.io/badge/-Twitter-1a0a3e?style=for-the-badge&logo=twitter&logoColor=7c6fe0&labelColor=130d2e" height="44"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://instagram.com/" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-1a0a3e?style=for-the-badge&logo=instagram&logoColor=9d8df5&labelColor=130d2e" height="44"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://medium.com/" title="Medium">
+  <img src="https://img.shields.io/badge/-Medium-1a0a3e?style=for-the-badge&logo=medium&logoColor=7c6fe0&labelColor=130d2e" height="44"/>
+</a>
+
+<br/><br/>
+
+<sub>© 2025 Arun Das. All rights reserved.</sub>
+
+<br/><br/>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0a3e,50:130d2e,100:0a0118&height=120&section=footer&text=&fontSize=0" width="100%"/>
