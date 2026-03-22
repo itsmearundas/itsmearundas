@@ -1,309 +1,296 @@
-
-# Hey there! 👋 I'm **Arun Das**
-
-
 <div align="center">
- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=440&lines=Aspiring+Software+Developer;Aspiring+Mobile+App+Developer;Aspiring+Web+Developer;Aspiring+AI+Enthusiast" alt="Typing SVG" />
+
+<img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=ARUN%20DAS&fontSize=72&fontColor=ffffff&color=0:0d0d0d,100:1a0a2e&stroke=ff6b35&strokeWidth=2&animation=fadeIn" width="100%"/>
+
 </div>
 
 <div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=itsmearundas&color=00D9FF&style=flat-square)
-  ![GitHub Followers](https://img.shields.io/github/followers/itsmearundas?color=00D9FF&style=flat-square)
-  ![Location](https://img.shields.io/badge/📍_Kerala,_India-00D9FF?style=flat-square)
-  
-</div>
 
----
+```
+╔══════════════════════════════════════════════════════════╗
+║  MCA Student  ·  AI/ML Engineer  ·  Full-Stack Dev       ║
+║  Mar Athanasius College of Engineering  ·  KTU  ·  2026  ║
+╚══════════════════════════════════════════════════════════╝
+```
 
-## 🧑‍💻 About Me
+<a href="https://linkedin.com/in/itsmearundas-kunnel">
+  <img src="https://img.shields.io/badge/LinkedIn-itsmearundas--kunnel-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/itsmearundas">
+  <img src="https://img.shields.io/badge/GitHub-itsmearundas-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://hackerrank.com/itsmearundas">
+  <img src="https://img.shields.io/badge/HackerRank-itsmearundas-2EC866?style=flat-square&logo=hackerrank&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:itsmearundasofficial@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-itsmearundasofficial-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
 
- <ul>
-                    <li><b>🎓 Education:</b> MCA Final Year Student</li>
-                    <li><b>🏛️ College:</b> Mar Athanasius College of Engineering, Eranakulam</li>
-                    <li><b>📍 Location:</b> Kattappana, Kerala, India</li>
-                    <li><b>🌱 Currently Learning:</b> Advanced AI & Machine Learning</li>
-                    
-                    
-   </ul>
+<br/><br/>
 
-🎯 **Aspiring MCA Student** passionate about building responsive mobile and web applications  
-🚀 Exploring **AI-driven solutions** and modern development practices  
-💼 Looking for **job and internship opportunities** to grow and contribute  
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=FF6B35&center=true&vCenter=true&width=500&lines=Building+AI-powered+applications;Full-Stack+%7C+Python+%7C+React+%7C+Flask;YOLOv8+%7C+EfficientNet+%7C+Deep+Learning;Open+to+Internships+%26+Collaborations" />
 
----
+<br/>
 
-## 🛠️ Tech Stack
-
-<div align="center">
-
-# 🎯 **Tech Arsenal**
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=&fontSize=0" />
-
-<br>
-
-## ⚡ **Core Technologies**
-
-<table align="center">
-  <tr>
-    <td align="center" width="25%">
-      <h3>🚀 <strong>Languages</strong></h3>
-      <img src="https://skillicons.dev/icons?i=java" />
-      <img src="https://skillicons.dev/icons?i=kotlin" />
-      <img src="https://skillicons.dev/icons?i=python" />
-    </td>
-    <td align="center" width="25%">
-      <h3>⚛️ <strong>Web Technologies</strong></h3>
-      <img src="https://skillicons.dev/icons?i=html" />
-      <img src="https://skillicons.dev/icons?i=css" />
-      <img src="https://skillicons.dev/icons?i=js" />
-    </td>
-    <td align="center" width="25%">
-      <h3>⚛️ <strong>Frameworks</strong></h3>
-      <img src="https://skillicons.dev/icons?i=react" />
-      <img src="https://skillicons.dev/icons?i=nodejs" />
-    </td>
-    <td align="center" width="25%">
-      <h3>🗄️ <strong>Databases</strong></h3>
-      <img src="https://skillicons.dev/icons?i=mysql" />
-      <img src="https://skillicons.dev/icons?i=sqlite" />
-    </td>
-  </tr>
-</table>
-
-
-<br>
-
-## 🛠️ **Development Tools**
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=androidstudio,vscode,git" />
-</div>
-
-<br><br>
-
-<br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=&fontSize=0" />
+![Profile Views](https://komarev.com/ghpvc/?username=itsmearundas&color=ff6b35&style=flat-square&label=PROFILE+VIEWS)
+&nbsp;
+![Location](https://img.shields.io/badge/📍-Kattappana%2C+Idukki%2C+Kerala-ff6b35?style=flat-square)
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## `> whoami`
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=itsmearundas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmearundas&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
+```python
+profile = {
+    "name"       : "Arun Das",
+    "role"       : "MCA Student & Aspiring Software Developer",
+    "institute"  : "Mar Athanasius College of Engineering (MACE), KTU",
+    "location"   : "Kattappana, Idukki, Kerala, India",
+    "cgpa"       : 7.75,
+    "focus"      : ["AI/ML Integration", "Full-Stack Web", "Deep Learning"],
+    "status"     : "🟢 Open to Internships & Job Opportunities",
+    "contact"    : "itsmearundasofficial@gmail.com",
+}
+```
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsmearundas&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
+> _Tech-savvy and analytical developer passionate about building AI-driven solutions and responsive web applications. I bring hands-on experience in full-stack development and deep learning projects, with a genuine drive to build things that have real-world impact._
 
 ---
 
-<div align="center">
+## `> education --list`
 
-# 💼 **Featured Projects**
+<table>
+<tr>
+<td width="50%">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,16&height=2&section=header" />
-
-<br>
-
-<table align="center" style="border: none; border-collapse: collapse;">
-<tr style="border: none;">
-<td align="center" width="50%" style="border: none; padding: 15px;">
-
-<div style="background: linear-gradient(135deg, #FF6B6B 0%, #4ECDC4 100%); padding: 25px; border-radius: 20px; margin: 10px;">
-
-### 📱 **My Job** 
-#### *Android Application*
-
-<img src="https://img.shields.io/badge/STATUS-COMPLETED-00C851?style=for-the-badge&logoColor=white" />
-
-<br>
-
-**🎯 Job portal with secure authentication & real-time features**
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=kotlin,java,sqlite,androidstudio&theme=dark" />
-
-<br>
-
-**✨ Key Features:**
-- 🔐 Secure Authentication System
-- 💼 Real-time Job Listings
-- 📊 User Dashboard
-- 🔔 Push Notifications
-
-</div>
+**🎓 Master of Computer Applications (MCA)**
+```
+Institution : Mar Athanasius College of Engineering
+University  : APJ Abdul Kalam Technology University
+Period      : Aug 2024 — May 2026
+CGPA        : 7.75 / 10
+```
 
 </td>
-<td align="center" width="50%" style="border: none; padding: 15px;">
+<td width="50%">
 
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 25px; border-radius: 20px; margin: 10px;">
-
-### 🌐 **EchoBoard**
-#### *Web Platform*
-
-<img src="https://img.shields.io/badge/STATUS-COMPLETED-00C851?style=for-the-badge&logoColor=white" />
-
-<br>
-
-**🎯 Real-time discussion platform with smart moderation**
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,mysql,js&theme=dark" />
-
-<br>
-
-**✨ Key Features:**
-- 💬 Real-time Messaging
-- 🤖 Smart Moderation
-- 👥 Community Management
-- 📈 Analytics Dashboard
-
-</div>
+**📘 Bachelor of Computer Applications (BCA)**
+```
+Institution : MES College
+University  : Mahatma Gandhi University
+Period      : Aug 2021 — Mar 2024
+CGPA        : 6.36 / 10
+```
 
 </td>
 </tr>
 </table>
 
-<br>
-
 ---
 
-<div align="center">
+## `> skills --verbose`
 
-### 🚀 **More Projects Coming Soon...**
+<table>
+<tr>
+<td align="center" width="25%">
 
-<img src="https://img.shields.io/badge/IN_DEVELOPMENT-FF9500?style=for-the-badge&logo=github&logoColor=white" />
+**`LANGUAGES`**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,js,java,html,css&theme=dark"/>
 
-</div>
-
-<br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,16&height=2&section=footer" />
-
-</div>
-
----
-
-## 🏆 Achievements
-
-- 🎓 **Academic Growth** - Current CGPA  to 7.76 (sem 1)
-- 💻 **Mooc certificate** - Privacy and Security in Online Social Media 
-- 🏅 **IoT Workshop** - Completed at Mar Athanasius College & Ernst & Young
-
----
-
-<div align="center">
-
-# 🌐 **Let's Connect & Collaborate**
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=header&text=&fontSize=0" />
-
-<br>
-
-<table align="center" style="border: none; border-collapse: collapse;">
-<tr style="border: none;">
-<td align="center" width="25%" style="border: none; padding: 30px;">
-<div>
-<a style="text-decoration:none;" href="https://www.linkedin.com/in/itsmearundas-kunnel/">
-<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="50" height="50"/>
-</a>
-</div>
 </td>
-<td align="center" width="25%" style="border: none; padding: 30px;">
-<div>
-<a style="text-decoration:none;" href="https://github.com/itsmearundas">
-<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="50" height="50"/>
-</a>
-</div>
+<td align="center" width="25%">
+
+**`FRAMEWORKS`**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,flask&theme=dark"/>
+
 </td>
-<td align="center" width="25%" style="border: none; padding: 30px;">
-<div>
-<a style="text-decoration:none;" href="https://www.hackerrank.com/profile/itsmearundas">
-<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-1024.png" width="50" height="50"/>
-</a>
-</div>
+<td align="center" width="25%">
+
+**`DATABASES`**
+<br/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite&theme=dark"/>
+
 </td>
-<td align="center" width="25%" style="border: none; padding: 30px;">
-<div>
-<a style="text-decoration:none;" href="mailto:arundaskunnel@gmail.com">
-<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="50" height="50"/>
-</a>
-</div>
+<td align="center" width="25%">
+
+**`TOOLS`**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio&theme=dark"/>
+
 </td>
 </tr>
 </table>
 
-<br><br>
+<br/>
+
+**AI / ML Stack**
+
+```
+YOLOv8  ·  EfficientNet-B0  ·  OpenCV  ·  Scikit-Learn  ·  Random Forest  ·  Flask (ML serving)
+```
 
 ---
 
-<div align="center">
+## `> projects --featured`
 
-# 💬 **Open to Opportunities**
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<br>
+### 🔬 Hybrid Object Detection & Classification
+> _Deep Learning Web Application_
 
-<table align="center" style="border: none; border-collapse: collapse;">
-<tr style="border: none;">
-<td align="center" width="33%" style="border: none; padding: 15px;">
-<div style="background: linear-gradient(135deg, #00C851 0%, #00A746 100%); padding: 20px; border-radius: 15px; margin: 10px; color: white;">
-<img src="https://cdn-icons-png.flaticon.com/512/3281/3281289.png" width="50" height="50" style="filter: brightness(0) invert(1);" />
-<br><br>
-<img src="https://img.shields.io/badge/💼_Job_Opportunities-OPEN-brightgreen?style=for-the-badge&labelColor=00C851" />
-<br><br>
-<strong>Full-time Positions</strong>
-<br>
-<sub>Ready to join your team</sub>
-</div>
+Real-time object detection and classification from **images, videos, and live webcam feeds**.
+Integrated **YOLOv8** for detection and **EfficientNet-B0** for classification, served via a Flask backend.
+
+```
+Stack : Python · YOLOv8 · EfficientNet-B0
+        Flask · OpenCV · HTML/CSS/JS
+Type  : AI-Powered Web Application
+```
+
+**Key highlights:**
+- ⚡ Real-time processing from multiple input sources
+- 🧠 Dual-model inference pipeline
+- 🌐 Responsive frontend for seamless UX
+
 </td>
-<td align="center" width="33%" style="border: none; padding: 15px;">
-<div style="background: linear-gradient(135deg, #007BFF 0%, #0056B3 100%); padding: 20px; border-radius: 15px; margin: 10px; color: white;">
-<img src="https://cdn-icons-png.flaticon.com/512/1006/1006555.png" width="50" height="50" style="filter: brightness(0) invert(1);" />
-<br><br>
-<img src="https://img.shields.io/badge/🤝_Collaborations-WELCOME-blue?style=for-the-badge&labelColor=007BFF" />
-<br><br>
-<strong>Project Partnerships</strong>
-<br>
-<sub>Let's build something amazing</sub>
-</div>
+<td width="50%" valign="top">
+
+### 💳 Credit Card Default Prediction System
+> _End-to-End ML Web Application_
+
+Predicts credit card payment defaults using **Random Forest** with comprehensive feature engineering, missing value handling, and comparative ML analysis.
+
+```
+Stack : Python · Random Forest · Scikit-Learn
+        React.js · Node.js · MongoDB
+Type  : Full-Stack ML Application
+```
+
+**Key highlights:**
+- 📊 Multi-model comparative analysis
+- 🔄 Full-stack: ML backend + React frontend
+- 📈 Feature engineering & data preprocessing
+
 </td>
-<td align="center" width="33%" style="border: none; padding: 15px;">
-<div style="background: linear-gradient(135deg, #FF9500 0%, #E67E00 100%); padding: 20px; border-radius: 15px; margin: 10px; color: white;">
-<img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="50" height="50" style="filter: brightness(0) invert(1);" />
-<br><br>
-<img src="https://img.shields.io/badge/📚_Mentoring-AVAILABLE-orange?style=for-the-badge&labelColor=FF9500" />
-<br><br>
-<strong>Knowledge Sharing</strong>
-<br>
-<sub>Happy to help & learn</sub>
-</div>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📱 My Job — Android Application
+> _Job Portal App_
+
+Android job portal with secure authentication and real-time features built with Kotlin and Java.
+
+```
+Stack : Kotlin · Java · SQLite · Android Studio
+Type  : Native Android Application
+```
+
+**Key highlights:**
+- 🔐 Secure authentication system
+- 💼 Real-time job listings
+- 📊 User dashboard & push notifications
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 EchoBoard — Web Platform
+> _Real-time Discussion Platform_
+
+Real-time discussion platform with smart moderation and community management features.
+
+```
+Stack : React.js · Node.js · MySQL · JavaScript
+Type  : Full-Stack Web Platform
+```
+
+**Key highlights:**
+- 💬 Real-time messaging
+- 🤖 Smart content moderation
+- 👥 Community management & analytics
+
 </td>
 </tr>
 </table>
 
-<br>
+---
+
+## `> achievements --all`
+
+| # | Achievement | Details | Year |
+|---|------------|---------|------|
+| 🏆 | **Code Crusade — Innovex 2025** | Competitive coding event · Dept. of CS Data Science, Nirmala College Muvattupuzha | Feb 2025 |
+| ☁️ | **Cloud Computing Workshop** | Five-day intensive · AWS, VM management, Security, CI/CD, Containerization · IIIT Kottayam × Educ Kshetra | Aug 2025 |
+| 🛡️ | **MOOC Certificate** | Privacy and Security in Online Social Media | 2024 |
+| 🔌 | **IoT Workshop** | Hands-on IoT workshop · Mar Athanasius College of Engineering & Ernst & Young | 2024 |
+
+---
+
+## `> github stats`
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=itsmearundas&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d0d&title_color=ff6b35&icon_color=f59e0b&text_color=c8d8e8&ring_color=ff6b35"/>
+&nbsp;&nbsp;
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmearundas&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=ff6b35&text_color=c8d8e8"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=itsmearundas&theme=dark&hide_border=true&background=0d0d0d&ring=ff6b35&fire=f59e0b&currStreakLabel=ff6b35&sideLabels=c8d8e8&dates=5a586e&sideNums=ffffff"/>
 
 </div>
 
-<br>
+---
 
+## `> contact --open`
 
+<div align="center">
+
+```
+ ┌─────────────────────────────────────────────────────┐
+ │                                                     │
+ │   🟢  OPEN TO OPPORTUNITIES                         │
+ │                                                     │
+ │   💼  Full-time Positions & Internships             │
+ │   🤝  Project Collaborations                        │
+ │   📚  Knowledge Exchange & Mentoring                │
+ │                                                     │
+ │   📧  itsmearundasofficial@gmail.com                │
+ │   📞  +91-7736908820                                │
+ │   📍  Kattappana, Idukki, Kerala, India             │
+ │                                                     │
+ └─────────────────────────────────────────────────────┘
+```
+
+<br/>
+
+<a href="https://linkedin.com/in/itsmearundas-kunnel">
+  <img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:itsmearundasofficial@gmail.com">
+  <img src="https://img.shields.io/badge/Send_Me_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
 <div align="center">
-  
-  **✨ Open for Job opportunities, internship opportunities and collaborations ✨**
-  
-  ![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
-  
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0a2e,100:0d0d0d&height=80&section=footer&text=&fontSize=0"/>
+
+_"Building systems that think. Engineering products that last."_
+
+**Arun Das · 2025**
+
 </div>
