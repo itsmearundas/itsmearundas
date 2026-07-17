@@ -1,19 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:FF6B35,100:F7931E&text=ARUN%20DAS&fontSize=70&fontColor=ffffff&fontAlign=50&fontAlignY=35&desc=AI/ML%20Engineer%20%7C%20Full-Stack%20Developer&descAlign=50&descAlignY=58&animation=fadeIn" width="100%"/>
+<img src="images/hero-banner.svg" width="100%"/>
 
 <a href="https://itsmearundas-github-io.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-FF6B35?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="https://linkedin.com/in/itsmearundas-kunnel"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:itsmearundasofficial@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://leetcode.com/itsmearundas"><img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 
-<br/>
+<br/><br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=FF6B35&center=true&vCenter=true&width=650&lines=MCA+Graduate+%E2%80%9926+%C2%B7+MACE+KTU;Two-stage+detection+pipeline+%C2%B7+85.41%25+accuracy;Full-stack+ML%3A+React+%2B+Flask+%2B+Random+Forest;5%2B+projects+shipped+%26+deployed+live;Open+to+Full-time+Roles+%26+Collaborations" alt="Typing SVG" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6B35,100:F7931E&height=3&section=header" width="100%"/>
+<img src="images/divider.svg" width="100%"/>
 
 ## 🧭 About Me
 
@@ -27,30 +27,18 @@ status:      🟢 Open to Full-time Opportunities & Collaborations
 currently:   Shipping intelligent, deployed web applications
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F7931E,100:FF6B35&height=3&section=header" width="100%"/>
+<img src="images/divider.svg" width="100%"/>
 
 ## 🛠️ Tech Stack
 
 <div align="center">
+<img src="images/skills-marquee.svg" width="100%"/>
+<br/><br/>
 
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=python,js,html,css" />
+<img src="https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,flask,vite,mongodb,sqlite,mysql,git,github,vscode,aws,docker" />
 
-**Web & Frameworks**
-<br/>
-<img src="https://skillicons.dev/icons?i=react,nodejs,flask,vite" />
+<br/><br/>
 
-**Databases**
-<br/>
-<img src="https://skillicons.dev/icons?i=mongodb,sqlite,mysql" />
-
-**Tools & Cloud**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,aws,docker" />
-
-**AI / ML**
-<br/>
 <img src="https://img.shields.io/badge/YOLOv8-111F68?style=flat-square&logo=yolo&logoColor=white"/>
 <img src="https://img.shields.io/badge/EfficientNet--B0-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
@@ -58,10 +46,9 @@ currently:   Shipping intelligent, deployed web applications
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
 <img src="https://img.shields.io/badge/XGBoost-1560BD?style=flat-square&logo=xgboost&logoColor=white"/>
 <img src="https://img.shields.io/badge/Claude%20API-D97757?style=flat-square&logo=anthropic&logoColor=white"/>
-
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6B35,100:F7931E&height=3&section=header" width="100%"/>
+<img src="images/divider.svg" width="100%"/>
 
 ## 🚀 Featured Projects
 
@@ -95,7 +82,7 @@ A full personal finance tracker — Flask + SQLite backend, vanilla JS frontend 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td colspan="2" valign="top">
 
 ### 🔬 Hybrid Object Detection & Classification
 *Two-stage deep learning pipeline — Jan–Mar 2026*
@@ -104,17 +91,15 @@ YOLOv8n for real-time object localisation + a fine-tuned EfficientNet-B0 classif
 
 **Stack:** Python · YOLOv8n · EfficientNet-B0 · ByteTrack · Flask · React.js · OpenCV · PyTorch
 
-| Metric | Value |
-|---|---|
-| Test Accuracy | **85.41%** |
-| Macro F1-Score | **0.85** |
-| GPU Inference | **43 FPS** |
+<img src="images/metrics-object-detection.svg" width="100%"/>
 
 <a href="#"><img src="https://img.shields.io/badge/Live%20Demo-add--link-FF6B35?style=flat-square&logo=vercel&logoColor=white"/></a>
 <a href="https://github.com/itsmearundas/object-detection"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td colspan="2" valign="top">
 
 ### 💳 Credit Card Default Prediction System
 *End-to-end ML web platform — Jun–Dec 2025*
@@ -123,11 +108,7 @@ Random Forest vs. XGBoost comparison on 30,000 records from the UCI Taiwan Credi
 
 **Stack:** Python · Random Forest · XGBoost · Scikit-learn · SMOTE · Flask · React.js · Node.js · MongoDB
 
-| Metric | Value |
-|---|---|
-| Test Accuracy | **83.72%** |
-| ROC-AUC | **0.9131** |
-| Precision | **85.99%** |
+<img src="images/metrics-credit-default.svg" width="100%"/>
 
 <a href="#"><img src="https://img.shields.io/badge/Live%20Demo-add--link-FF6B35?style=flat-square&logo=vercel&logoColor=white"/></a>
 <a href="https://github.com/itsmearundas/credit-default"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white"/></a>
@@ -176,7 +157,7 @@ Node.js + Express + Socket.io backend with a React frontend — QR-code device p
 <sub>💡 Badges marked <code>add-link</code> are placeholders for the remaining live URLs / repos — swap them in once you paste those in.</sub>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6B35,100:F7931E&height=3&section=header" width="100%"/>
+<img src="images/divider.svg" width="100%"/>
 
 ## 🎓 Education
 
@@ -187,7 +168,7 @@ Node.js + Express + Socket.io backend with a React frontend — QR-code device p
 | APJ Abdul Kalam Technological University | Mahatma Gandhi University |
 | Aug 2024 — May 2026 · CGPA 7.75/10 | Aug 2021 — Mar 2024 · CGPA 6.36/10 |
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F7931E,100:FF6B35&height=3&section=header" width="100%"/>
+<img src="images/divider.svg" width="100%"/>
 
 ## 🏆 Achievements
 
@@ -198,7 +179,7 @@ Node.js + Express + Socket.io backend with a React frontend — QR-code device p
 | 🛡️ | **MOOC Certificate** | Privacy and Security in Online Social Media | 2024 |
 | 🔌 | **IoT Workshop** | Hands-on IoT workshop — MACE × Ernst & Young | 2024 |
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6B35,100:F7931E&height=3&section=header" width="100%"/>
+<img src="images/divider.svg" width="100%"/>
 
 ## 🐍 Contribution Snake
 
@@ -206,11 +187,11 @@ Node.js + Express + Socket.io backend with a React frontend — QR-code device p
 
 <img src="https://raw.githubusercontent.com/itsmearundas/itsmearundas/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution snake animation"/>
 
-<sub>Animated automatically every 24h by the workflow in <code>snake.yml</code> below — see setup note at the end.</sub>
+<sub>Animated automatically every 24h by the workflow in <code>snake.yml</code>.</sub>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F7931E,100:FF6B35&height=3&section=header" width="100%"/>
+<img src="images/divider.svg" width="100%"/>
 
 ## 📊 GitHub Stats
 
@@ -224,11 +205,11 @@ Node.js + Express + Socket.io backend with a React frontend — QR-code device p
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsmearundas&theme=radical&hide_border=true&background=0d1117&ring=FF6B35&fire=F7931E&sideLabels=c8d8e8&dates=5a586e" width="70%" />
 
 <br/><br/>
-<sub>⚠️ If a stats card above shows as a broken image, it's the shared public server hitting a rate limit, not your data — refresh in a minute, or see the self-hosting note at the end for a permanent fix.</sub>
+<sub>⚠️ If a stats card above shows as a broken image, it's the shared public server hitting a rate limit, not your data — refresh in a minute.</sub>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6B35,100:F7931E&height=3&section=header" width="100%"/>
+<img src="images/divider.svg" width="100%"/>
 
 ## 📬 Let's Connect
 

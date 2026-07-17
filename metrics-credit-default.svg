@@ -1,0 +1,44 @@
+<svg width="900" height="200" viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="barGrad2" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#06b6d4"/>
+      <stop offset="100%" stop-color="#3b82f6"/>
+    </linearGradient>
+    <style>
+      .lbl { font-family: 'Courier New', monospace; font-size: 15px; fill: #c8d8e8; }
+      .val { font-family: 'Courier New', monospace; font-size: 15px; font-weight: bold; fill: #06b6d4; }
+    </style>
+  </defs>
+
+  <!-- Test Accuracy 83.72% -->
+  <text class="lbl" x="0" y="18">Test Accuracy</text>
+  <rect x="0" y="26" width="600" height="14" rx="7" fill="#1c2129"/>
+  <rect x="0" y="26" width="0" height="14" rx="7" fill="url(#barGrad2)">
+    <animate attributeName="width" from="0" to="502" dur="1.4s" fill="freeze"/>
+  </rect>
+  <text class="val" x="615" y="38">83.72%</text>
+
+  <!-- ROC-AUC 0.9131 -->
+  <text class="lbl" x="0" y="68">ROC-AUC</text>
+  <rect x="0" y="76" width="600" height="14" rx="7" fill="#1c2129"/>
+  <rect x="0" y="76" width="0" height="14" rx="7" fill="url(#barGrad2)">
+    <animate attributeName="width" from="0" to="548" dur="1.4s" begin="0.15s" fill="freeze"/>
+  </rect>
+  <text class="val" x="615" y="88">0.9131</text>
+
+  <!-- Precision 85.99% -->
+  <text class="lbl" x="0" y="118">Precision</text>
+  <rect x="0" y="126" width="600" height="14" rx="7" fill="#1c2129"/>
+  <rect x="0" y="126" width="0" height="14" rx="7" fill="url(#barGrad2)">
+    <animate attributeName="width" from="0" to="516" dur="1.4s" begin="0.3s" fill="freeze"/>
+  </rect>
+  <text class="val" x="615" y="138">85.99%</text>
+
+  <!-- Recall 80.57% -->
+  <text class="lbl" x="0" y="168">Recall</text>
+  <rect x="0" y="176" width="600" height="14" rx="7" fill="#1c2129"/>
+  <rect x="0" y="176" width="0" height="14" rx="7" fill="url(#barGrad2)">
+    <animate attributeName="width" from="0" to="484" dur="1.4s" begin="0.45s" fill="freeze"/>
+  </rect>
+  <text class="val" x="615" y="188">80.57%</text>
+</svg>

@@ -1,0 +1,11 @@
+<svg width="1200" height="50" viewBox="0 0 1200 50" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .m { font-family: 'Courier New', monospace; font-size: 20px; fill: #c8d8e8; }
+  </style>
+  <rect width="1200" height="50" fill="none"/>
+  <g id="track">
+    <text class="m" x="0" y="32">🐍 Python &#160;&#183;&#160; ⚛ React &#160;&#183;&#160; 🟢 Node.js &#160;&#183;&#160; 🔥 Flask &#160;&#183;&#160; 🎯 YOLOv8 &#160;&#183;&#160; 🧠 EfficientNet &#160;&#183;&#160; 🌲 Random Forest &#160;&#183;&#160; ⚡ XGBoost &#160;&#183;&#160; 🍃 MongoDB &#160;&#183;&#160; 🔌 Socket.io &#160;&#183;&#160; 🤖 Claude API &#160;&#160;&#160;&#160;</text>
+    <text class="m" x="1080" y="32">🐍 Python &#160;&#183;&#160; ⚛ React &#160;&#183;&#160; 🟢 Node.js &#160;&#183;&#160; 🔥 Flask &#160;&#183;&#160; 🎯 YOLOv8 &#160;&#183;&#160; 🧠 EfficientNet &#160;&#183;&#160; 🌲 Random Forest &#160;&#183;&#160; ⚡ XGBoost &#160;&#183;&#160; 🍃 MongoDB &#160;&#183;&#160; 🔌 Socket.io &#160;&#183;&#160; 🤖 Claude API &#160;&#160;&#160;&#160;</text>
+    <animateTransform attributeName="transform" type="translate" from="0 0" to="-1080 0" dur="20s" repeatCount="indefinite"/>
+  </g>
+</svg>
