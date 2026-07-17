@@ -5,11 +5,11 @@
 <a href="https://itsmearundas.github.io/"><img src="https://img.shields.io/badge/PORTFOLIO-FF6B35?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="https://linkedin.com/in/itsmearundas-kunnel"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:itsmearundasofficial@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://hackerrank.com/itsmearundas"><img src="https://img.shields.io/badge/HACKERRANK-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
+<a href="https://leetcode.com/itsmearundas"><img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=FF6B35&center=true&vCenter=true&width=600&lines=Building+AI-driven+solutions+that+matter;YOLOv8+%C2%B7+EfficientNet+%C2%B7+Full-Stack+Web;MCA+Student+%40+MACE+KTU+%C2%B7+2026;Open+to+Internships+%26+Full-time+Roles" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=FF6B35&center=true&vCenter=true&width=650&lines=Two-stage+detection+pipeline+%C2%B7+85.41%25+accuracy;Full-stack+ML%3A+React+%2B+Flask+%2B+Random+Forest;MCA+Student+%40+MACE+KTU+%C2%B7+2026;Open+to+Internships+%26+Full-time+Roles" alt="Typing SVG" />
 
 </div>
 
@@ -17,7 +17,7 @@
 
 ## 🧭 About Me
 
-I'm **Arun Das**, an MCA'26 graduate from **Mar Athanasius College of Engineering (MACE), KTU**, building at the intersection of **AI/ML** and **full-stack web development**. I like turning research-grade models into products people can actually click on — from real-time object detection to predictive ML dashboards.
+I'm **Arun Das**, an MCA'26 graduate from **Mar Athanasius College of Engineering (MACE), KTU**, working at the intersection of **AI/ML** and **full-stack web development**. I like turning research-grade models into products people can actually click on — a two-stage YOLOv8 + EfficientNet detection pipeline, a Random Forest credit-risk system with SHAP-ready interpretability, and an AI journaling platform that argues back using your own blind spots.
 
 ```yaml
 role:        MCA Student & Aspiring Software Developer
@@ -35,27 +35,29 @@ currently:   Building intelligent, deployable web applications
 
 **Languages**
 <br/>
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css" />
+<img src="https://skillicons.dev/icons?i=python,js,html,css" />
 
-**Frameworks & Libraries**
+**Web & Frameworks**
 <br/>
-<img src="https://skillicons.dev/icons?i=react,nodejs,flask" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,flask,vite" />
 
 **Databases**
 <br/>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
+<img src="https://skillicons.dev/icons?i=mongodb,sqlite,mysql" />
 
-**Tools & Platforms**
+**Tools & Cloud**
 <br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,aws,docker" />
 
 **AI / ML**
 <br/>
 <img src="https://img.shields.io/badge/YOLOv8-111F68?style=flat-square&logo=yolo&logoColor=white"/>
 <img src="https://img.shields.io/badge/EfficientNet--B0-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Random%20Forest-2E7D32?style=flat-square&logo=probot&logoColor=white"/>
+<img src="https://img.shields.io/badge/XGBoost-1560BD?style=flat-square&logo=xgboost&logoColor=white"/>
+<img src="https://img.shields.io/badge/Claude%20API-D97757?style=flat-square&logo=anthropic&logoColor=white"/>
 
 </div>
 
@@ -68,78 +70,99 @@ currently:   Building intelligent, deployable web applications
 <td width="50%" valign="top">
 
 ### 🔬 Hybrid Object Detection & Classification
-*Deep Learning Web Application*
+*Two-stage deep learning pipeline — Jan–Mar 2026*
 
-Real-time object detection and classification from images, videos, and live webcam feeds. Combines **YOLOv8** for detection with **EfficientNet-B0** for classification, served through a Flask backend.
+YOLOv8n for real-time object localisation + a fine-tuned EfficientNet-B0 classifier, with ByteTrack for multi-object tracking. A React frontend switches between image, video, and live webcam modes with zero page refreshes.
 
-**Stack:** Python · YOLOv8 · EfficientNet-B0 · Flask · OpenCV
+**Stack:** Python · YOLOv8n · EfficientNet-B0 · ByteTrack · Flask · React.js · OpenCV · PyTorch
 
-- ⚡ Real-time inference across multiple input sources
-- 🧠 Dual-model detection + classification pipeline
-- 🌐 Responsive web frontend
+| Metric | Value |
+|---|---|
+| Test Accuracy | **85.41%** |
+| Macro F1-Score | **0.85** |
+| GPU Inference | **43 FPS** |
+| Object Classes | **17** |
 
 <a href="#"><img src="https://img.shields.io/badge/Live%20Demo-add--link-FF6B35?style=flat-square&logo=vercel&logoColor=white"/></a>
-<a href="https://github.com/itsmearundas/Detecting-and-classifying-multiple-objects-in-images-and-videos"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://github.com/itsmearundas/object-detection"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
 </td>
 <td width="50%" valign="top">
 
 ### 💳 Credit Card Default Prediction System
-*End-to-End ML Web Application*
+*End-to-end ML web platform — Jun–Dec 2025*
 
-Predicts credit card payment defaults using **Random Forest**, with full feature engineering, missing-value handling, and comparative model analysis — wrapped in a full-stack app.
+Random Forest vs. XGBoost comparison on 30,000 records from the UCI Taiwan Credit Default dataset, with SMOTE class balancing, GridSearchCV tuning, and a SHAP-ready interpretation pipeline. Flask + React + MongoDB, built for real-time risk assessment.
 
-**Stack:** Python · Scikit-Learn · React.js · Node.js · MongoDB
+**Stack:** Python · Random Forest · XGBoost · Scikit-learn · SMOTE · Flask · React.js · Node.js · MongoDB
 
-- 📊 Multi-model comparative analysis
-- 🔄 ML backend + React frontend, fully integrated
-- 📈 Feature engineering & data preprocessing pipeline
+| Metric | Value |
+|---|---|
+| Test Accuracy | **83.72%** |
+| ROC-AUC | **0.9131** |
+| Precision | **85.99%** |
+| Recall | **80.57%** |
 
 <a href="#"><img src="https://img.shields.io/badge/Live%20Demo-add--link-FF6B35?style=flat-square&logo=vercel&logoColor=white"/></a>
-<a href="https://github.com/itsmearundas/Credit-Card-Default-prediction"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://github.com/itsmearundas/credit-default"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🌐 EchoBoard
-*Real-Time Discussion Platform*
+### 🪞 InnerForge — AI Self-Awareness Platform
+*MERN full-stack · AI — 2025 to Present*
 
-A full-stack discussion platform with real-time messaging, smart content moderation, and community management tools.
+MirrorMind (an AI journal that builds your psychological profile) meets ArgumentLab (an idea stress-tester that attacks your ideas using your *own* detected blind spots first). Live debate Arena over Socket.io, D3.js argument-tree visualisation, and Claude API under the hood.
 
-**Stack:** React.js · Node.js · MySQL · JavaScript
+**Stack:** React · Vite · Node.js · Express · MongoDB Atlas · Socket.io · Claude API · D3.js · Recharts
 
-- 💬 Real-time messaging
-- 🤖 Smart content moderation
-- 👥 Community management & analytics dashboard
+- 🧠 Personal blind-spot detection from journal entries
+- ⚔️ 10-angle idea attack, Steel-Man mode included
+- 🥊 Real-time debate Arena via Socket.io
 
 <a href="#"><img src="https://img.shields.io/badge/Live%20Demo-add--link-FF6B35?style=flat-square&logo=vercel&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Source-add--link-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
 </td>
 <td width="50%" valign="top">
 
-### 📱 My Job — Android Application
-*Native Job Portal App*
+### 💰 ExpenseTracker — Personal Finance Manager
+*Full-stack Flask · 2025*
 
-An Android job portal with secure authentication and real-time job listings, built natively with Kotlin and Java.
+A full personal finance tracker — Flask + SQLite backend, vanilla JS frontend with real-time CRUD and category-based spend analytics. Became the technical centerpiece of a full interview loop at an AI product company.
 
-**Stack:** Kotlin · Java · SQLite · Android Studio
+**Stack:** Python · Flask · SQLite · JavaScript · HTML5 · CSS3
 
-- 🔐 Secure authentication system
-- 💼 Real-time job listings
-- 📊 User dashboard & push notifications
+- 💸 Full CRUD for income & expenses, ₹ formatted
+- 📊 Category-based analytics with search/filter
+- 🎤 Walked engineers through the architecture live in interviews
 
-<a href="#"><img src="https://img.shields.io/badge/Play%20Store-add--link-01875f?style=flat-square&logo=googleplay&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Live%20Demo-not%20deployed-lightgrey?style=flat-square"/></a>
+<a href="https://github.com/itsmearundas/ExpenseTracker"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white"/></a>
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 📡 LocalDrop — Local Network File Sharing
+*Full-stack · Real-time — 2025*
+
+Node.js + Express + Socket.io backend with a React frontend — QR-code device pairing, real-time group chat, and role-based (admin/guest) access. Replicates AirDrop-speed transfers across any device on a shared network, not locked to one ecosystem.
+
+**Stack:** Node.js · Express · Socket.io · React.js · QR Code
+
+<a href="#"><img src="https://img.shields.io/badge/Live%20Demo-not%20deployed-lightgrey?style=flat-square"/></a>
+<a href="https://github.com/itsmearundas/LocalDrop"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
 </td>
 </tr>
 </table>
 
 <div align="center">
-<sub>💡 Replace the <code>#</code> / <code>add-link</code> badges above with your actual live demo URLs.</sub>
+<sub>💡 Badges marked <code>add-link</code> are placeholders — swap in the real live URL / repo link once ready. My portfolio itself is live at <a href="https://itsmearundas.github.io">itsmearundas.github.io</a>.</sub>
 </div>
 
 <br/>
@@ -190,7 +213,9 @@ I'm currently open to **internships**, **full-time roles**, and **project collab
 <a href="https://linkedin.com/in/itsmearundas-kunnel"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:itsmearundasofficial@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://itsmearundas.github.io/"><img src="https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://hackerrank.com/itsmearundas"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+<a href="https://leetcode.com/itsmearundas"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="https://www.hackerrank.com/profile/itsmearundas"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+<a href="https://instagram.com/itsmearundas"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
 <br/><br/>
 
