@@ -1,312 +1,201 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=ARUN%20DAS&fontSize=72&fontColor=ffffff&color=0:0d0d0d,100:1a0a2e&stroke=ff6b35&strokeWidth=2&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:FF6B35,100:F7931E&text=ARUN%20DAS&fontSize=70&fontColor=ffffff&fontAlign=50&fontAlignY=35&desc=AI/ML%20Engineer%20%7C%20Full-Stack%20Developer&descAlign=50&descAlignY=58&animation=fadeIn" width="100%"/>
+
+<a href="https://itsmearundas.github.io/"><img src="https://img.shields.io/badge/PORTFOLIO-FF6B35?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://linkedin.com/in/itsmearundas-kunnel"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:itsmearundasofficial@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://hackerrank.com/itsmearundas"><img src="https://img.shields.io/badge/HACKERRANK-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=FF6B35&center=true&vCenter=true&width=600&lines=Building+AI-driven+solutions+that+matter;YOLOv8+%C2%B7+EfficientNet+%C2%B7+Full-Stack+Web;MCA+Student+%40+MACE+KTU+%C2%B7+2026;Open+to+Internships+%26+Full-time+Roles" alt="Typing SVG" />
 
 </div>
+
+<br/>
+
+## 🧭 About Me
+
+I'm **Arun Das**, an MCA'26 graduate from **Mar Athanasius College of Engineering (MACE), KTU**, building at the intersection of **AI/ML** and **full-stack web development**. I like turning research-grade models into products people can actually click on — from real-time object detection to predictive ML dashboards.
+
+```yaml
+role:        MCA Student & Aspiring Software Developer
+focus:       [AI/ML Integration, Full-Stack Web, Deep Learning]
+location:    Kattappana, Idukki, Kerala, India
+status:      🟢 Open to Internships & Job Opportunities
+currently:   Building intelligent, deployable web applications
+```
+
+<br/>
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════╗
-║  MCA Student  ·  AI/ML Engineer  ·  Full-Stack Dev       ║
-║  Mar Athanasius College of Engineering  ·  KTU  ·  2026  ║
-╚══════════════════════════════════════════════════════════╝
-```
-
-<a href="https://linkedin.com/in/itsmearundas-kunnel">
-  <img src="https://img.shields.io/badge/LinkedIn-itsmearundas--kunnel-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://github.com/itsmearundas">
-  <img src="https://img.shields.io/badge/GitHub-itsmearundas-181717?style=flat-square&logo=github&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://hackerrank.com/itsmearundas">
-  <img src="https://img.shields.io/badge/HackerRank-itsmearundas-2EC866?style=flat-square&logo=hackerrank&logoColor=white"/>
-</a>
-&nbsp;
-<a href="mailto:itsmearundasofficial@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-itsmearundasofficial-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=FF6B35&center=true&vCenter=true&width=500&lines=Building+AI-powered+applications;Full-Stack+%7C+Python+%7C+React+%7C+Flask;YOLOv8+%7C+EfficientNet+%7C+Deep+Learning;Open+to+Internships+%26+Collaborations" />
-
+**Languages**
 <br/>
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=itsmearundas&color=ff6b35&style=flat-square&label=PROFILE+VIEWS)
-&nbsp;
-![Location](https://img.shields.io/badge/📍-Kattappana%2C+Idukki%2C+Kerala-ff6b35?style=flat-square)
+**Frameworks & Libraries**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,flask" />
+
+**Databases**
+<br/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
+
+**Tools & Platforms**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio" />
+
+**AI / ML**
+<br/>
+<img src="https://img.shields.io/badge/YOLOv8-111F68?style=flat-square&logo=yolo&logoColor=white"/>
+<img src="https://img.shields.io/badge/EfficientNet--B0-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Random%20Forest-2E7D32?style=flat-square&logo=probot&logoColor=white"/>
 
 </div>
 
----
-
-## `> whoami`
-
-```python
-profile = {
-    "name"       : "Arun Das",
-    "role"       : "MCA Student & Aspiring Software Developer",
-    "institute"  : "Mar Athanasius College of Engineering (MACE), KTU",
-    "location"   : "Kattappana, Idukki, Kerala, India",
-    "cgpa"       : 7.75,
-    "focus"      : ["AI/ML Integration", "Full-Stack Web", "Deep Learning"],
-    "status"     : "🟢 Open to Internships & Job Opportunities",
-    "contact"    : "itsmearundasofficial@gmail.com",
-}
-```
-
-> _Tech-savvy and analytical developer passionate about building AI-driven solutions and responsive web applications. I bring hands-on experience in full-stack development and deep learning projects, with a genuine drive to build things that have real-world impact._
-
----
-
-## `> education --list`
-
-<table>
-<tr>
-<td width="50%">
-
-**🎓 Master of Computer Applications (MCA)**
-```
-Institution : Mar Athanasius College of Engineering
-University  : APJ Abdul Kalam Technology University
-Period      : Aug 2024 — May 2026
-CGPA        : 7.75 / 10
-```
-
-</td>
-<td width="50%">
-
-**📘 Bachelor of Computer Applications (BCA)**
-```
-Institution : MES College
-University  : Mahatma Gandhi University
-Period      : Aug 2021 — Mar 2024
-CGPA        : 6.36 / 10
-```
-
-</td>
-</tr>
-</table>
-
----
-
-## `> skills --verbose`
-
-<table>
-<tr>
-<td align="center" width="25%">
-
-**`LANGUAGES`**
-<br/>
-<img src="https://skillicons.dev/icons?i=python,js,java,html,css&theme=dark"/>
-
-</td>
-<td align="center" width="25%">
-
-**`FRAMEWORKS`**
-<br/>
-<img src="https://skillicons.dev/icons?i=react,nodejs,flask&theme=dark"/>
-
-</td>
-<td align="center" width="25%">
-
-**`DATABASES`**
-<br/>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite&theme=dark"/>
-
-</td>
-<td align="center" width="25%">
-
-**`TOOLS`**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio&theme=dark"/>
-
-</td>
-</tr>
-</table>
-
 <br/>
 
-**AI / ML Stack**
-
-```
-YOLOv8  ·  EfficientNet-B0  ·  OpenCV  ·  Scikit-Learn  ·  Random Forest  ·  Flask (ML serving)
-```
-
----
-
-## `> projects --featured`
+## 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### 🔬 Hybrid Object Detection & Classification
-> _Deep Learning Web Application_
+*Deep Learning Web Application*
 
-Real-time object detection and classification from **images, videos, and live webcam feeds**.
-Integrated **YOLOv8** for detection and **EfficientNet-B0** for classification, served via a Flask backend.
+Real-time object detection and classification from images, videos, and live webcam feeds. Combines **YOLOv8** for detection with **EfficientNet-B0** for classification, served through a Flask backend.
 
-```
-Stack : Python · YOLOv8 · EfficientNet-B0
-        Flask · OpenCV · HTML/CSS/JS
-Type  : AI-Powered Web Application
-```
+**Stack:** Python · YOLOv8 · EfficientNet-B0 · Flask · OpenCV
 
-**Key highlights:**
-- ⚡ Real-time processing from multiple input sources
-- 🧠 Dual-model inference pipeline
-- 🌐 Responsive frontend for seamless UX
+- ⚡ Real-time inference across multiple input sources
+- 🧠 Dual-model detection + classification pipeline
+- 🌐 Responsive web frontend
+
+<a href="#"><img src="https://img.shields.io/badge/Live%20Demo-add--link-FF6B35?style=flat-square&logo=vercel&logoColor=white"/></a>
+<a href="https://github.com/itsmearundas/Detecting-and-classifying-multiple-objects-in-images-and-videos"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
 </td>
 <td width="50%" valign="top">
 
 ### 💳 Credit Card Default Prediction System
-> _End-to-End ML Web Application_
+*End-to-End ML Web Application*
 
-Predicts credit card payment defaults using **Random Forest** with comprehensive feature engineering, missing value handling, and comparative ML analysis.
+Predicts credit card payment defaults using **Random Forest**, with full feature engineering, missing-value handling, and comparative model analysis — wrapped in a full-stack app.
 
-```
-Stack : Python · Random Forest · Scikit-Learn
-        React.js · Node.js · MongoDB
-Type  : Full-Stack ML Application
-```
+**Stack:** Python · Scikit-Learn · React.js · Node.js · MongoDB
 
-**Key highlights:**
 - 📊 Multi-model comparative analysis
-- 🔄 Full-stack: ML backend + React frontend
-- 📈 Feature engineering & data preprocessing
+- 🔄 ML backend + React frontend, fully integrated
+- 📈 Feature engineering & data preprocessing pipeline
+
+<a href="#"><img src="https://img.shields.io/badge/Live%20Demo-add--link-FF6B35?style=flat-square&logo=vercel&logoColor=white"/></a>
+<a href="https://github.com/itsmearundas/Credit-Card-Default-prediction"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 📱 My Job — Android Application
-> _Job Portal App_
+### 🌐 EchoBoard
+*Real-Time Discussion Platform*
 
-Android job portal with secure authentication and real-time features built with Kotlin and Java.
+A full-stack discussion platform with real-time messaging, smart content moderation, and community management tools.
 
-```
-Stack : Kotlin · Java · SQLite · Android Studio
-Type  : Native Android Application
-```
+**Stack:** React.js · Node.js · MySQL · JavaScript
 
-**Key highlights:**
-- 🔐 Secure authentication system
-- 💼 Real-time job listings
-- 📊 User dashboard & push notifications
+- 💬 Real-time messaging
+- 🤖 Smart content moderation
+- 👥 Community management & analytics dashboard
+
+<a href="#"><img src="https://img.shields.io/badge/Live%20Demo-add--link-FF6B35?style=flat-square&logo=vercel&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
 </td>
 <td width="50%" valign="top">
 
-### 🌐 EchoBoard — Web Platform
-> _Real-time Discussion Platform_
+### 📱 My Job — Android Application
+*Native Job Portal App*
 
-Real-time discussion platform with smart moderation and community management features.
+An Android job portal with secure authentication and real-time job listings, built natively with Kotlin and Java.
 
-```
-Stack : React.js · Node.js · MySQL · JavaScript
-Type  : Full-Stack Web Platform
-```
+**Stack:** Kotlin · Java · SQLite · Android Studio
 
-**Key highlights:**
-- 💬 Real-time messaging
-- 🤖 Smart content moderation
-- 👥 Community management & analytics
+- 🔐 Secure authentication system
+- 💼 Real-time job listings
+- 📊 User dashboard & push notifications
+
+<a href="#"><img src="https://img.shields.io/badge/Play%20Store-add--link-01875f?style=flat-square&logo=googleplay&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
 </td>
 </tr>
 </table>
 
----
+<div align="center">
+<sub>💡 Replace the <code>#</code> / <code>add-link</code> badges above with your actual live demo URLs.</sub>
+</div>
 
-## `> achievements --all`
+<br/>
 
-| # | Achievement | Details | Year |
-|---|------------|---------|------|
-| 🏆 | **Code Crusade — Innovex 2025** | Competitive coding event · Dept. of CS Data Science, Nirmala College Muvattupuzha | Feb 2025 |
-| ☁️ | **Cloud Computing Workshop** | Five-day intensive · AWS, VM management, Security, CI/CD, Containerization · IIIT Kottayam × Educ Kshetra | Aug 2025 |
+## 🎓 Education
+
+| | |
+|---|---|
+| **🎓 Master of Computer Applications (MCA)** | **📘 Bachelor of Computer Applications (BCA)** |
+| Mar Athanasius College of Engineering (MACE) | MES College |
+| APJ Abdul Kalam Technological University | Mahatma Gandhi University |
+| Aug 2024 — May 2026 · CGPA 7.75/10 | Aug 2021 — Mar 2024 · CGPA 6.36/10 |
+
+<br/>
+
+## 🏆 Achievements
+
+| | Achievement | Details | Year |
+|---|---|---|---|
+| 🏆 | **Code Crusade — Innovex 2025** | Competitive coding event, Dept. of CS & Data Science, Nirmala College Muvattupuzha | 2025 |
+| ☁️ | **Cloud Computing Workshop** | 5-day intensive on AWS, VM management, security & CI/CD — IIIT Kottayam × Educ Kshetra | 2025 |
 | 🛡️ | **MOOC Certificate** | Privacy and Security in Online Social Media | 2024 |
-| 🔌 | **IoT Workshop** | Hands-on IoT workshop · Mar Athanasius College of Engineering & Ernst & Young | 2024 |
+| 🔌 | **IoT Workshop** | Hands-on IoT workshop — MACE × Ernst & Young | 2024 |
 
----
+<br/>
 
-## `> github stats`
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=itsmearundas&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d0d&title_color=ff6b35&icon_color=f59e0b&text_color=c8d8e8&ring_color=ff6b35"/>
-&nbsp;&nbsp;
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmearundas&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=ff6b35&text_color=c8d8e8"/>
+<img src="https://github-readme-stats.vercel.app/api?username=itsmearundas&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF6B35&icon_color=F7931E&text_color=c8d8e8&ring_color=FF6B35" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmearundas&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF6B35&text_color=c8d8e8" width="42%" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=itsmearundas&theme=dark&hide_border=true&background=0d0d0d&ring=ff6b35&fire=f59e0b&currStreakLabel=ff6b35&sideLabels=c8d8e8&dates=5a586e&sideNums=ffffff"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=itsmearundas&theme=radical&hide_border=true&background=0d1117&ring=FF6B35&fire=F7931E&sideLabels=c8d8e8&dates=5a586e" width="70%" />
 
 </div>
 
----
+<br/>
 
-## `> contact --open`
+## 📬 Let's Connect
 
 <div align="center">
 
-```
- ┌─────────────────────────────────────────────────────┐
- │                                                     │
- │   🟢  OPEN TO OPPORTUNITIES                         │
- │                                                     │
- │   💼  Full-time Positions & Internships             │
- │   🤝  Project Collaborations                        │
- │   📚  Knowledge Exchange & Mentoring                │
- │                                                     │
- │   📧  itsmearundasofficial@gmail.com                │
- │   📞  +91-7736908820                                │
- │   📍  Kattappana, Idukki, Kerala, India             │
- │                                                     │
- └─────────────────────────────────────────────────────┘
-```
+I'm currently open to **internships**, **full-time roles**, and **project collaborations**. If you're building something interesting in AI/ML or full-stack web, let's talk.
 
-</div>
-
----
-
-<!-- ═══════════════ FOOTER — matches portfolio footer ═══════════════ -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4b2fff,30:5b30f5,60:6a25f0,100:3d00e0&height=140&section=header&text=&fontSize=0" width="100%"/>
-
-<div align="center" style="background: linear-gradient(180deg, #4b2fff, #3d00e0); padding: 32px 0;">
-
-<br/>
-
-### Connect with me through these platforms
-
-<br/>
-
-<a href="https://linkedin.com/in/itsmearundas-kunnel" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-LinkedIn-5b30f5?style=for-the-badge&logo=linkedin&logoColor=c4b5fd&labelColor=4b2fff" height="44"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/itsmearundas" title="GitHub">
-  <img src="https://img.shields.io/badge/-GitHub-5b30f5?style=for-the-badge&logo=github&logoColor=ddd6fe&labelColor=4b2fff" height="44"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://twitter.com/" title="Twitter">
-  <img src="https://img.shields.io/badge/-Twitter-5b30f5?style=for-the-badge&logo=twitter&logoColor=c4b5fd&labelColor=4b2fff" height="44"/>
-</a>
-&nbsp;&nbsp;
-
+<a href="https://linkedin.com/in/itsmearundas-kunnel"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:itsmearundasofficial@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://itsmearundas.github.io/"><img src="https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://hackerrank.com/itsmearundas"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
 
 <br/><br/>
 
-<sub>© 2025 Arun Das. All rights reserved.</sub>
-
-<br/><br/>
+<img src="https://komarev.com/ghpvc/?username=itsmearundas&color=ff6b35&style=flat-square&label=PROFILE+VIEWS" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3d00e0,40:4b2fff,70:5b30f5,100:6a25f0&height=140&section=footer&text=&fontSize=0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:F7931E,100:FF6B35&section=footer" width="100%"/>
