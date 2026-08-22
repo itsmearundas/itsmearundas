@@ -11,6 +11,13 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=FF6B35&center=true&vCenter=true&width=650&lines=MCA+Graduate+%E2%80%9926+%C2%B7+MACE+KTU;Two-stage+detection+pipeline+%C2%B7+85.41%25+accuracy;Full-stack+ML%3A+React+%2B+Flask+%2B+Random+Forest;5%2B+projects+shipped+%26+deployed+live;Open+to+Full-time+Roles+%26+Collaborations" alt="Typing SVG" />
 
+<br/>
+
+<img src="https://img.shields.io/badge/Projects_Shipped-5+-0d1117?style=flat-square&labelColor=0d1117&color=FF6B35"/>
+<img src="https://img.shields.io/badge/Detection_Accuracy-85.41%25-0d1117?style=flat-square&labelColor=0d1117&color=F7931E"/>
+<img src="https://img.shields.io/badge/Stack-React_%C2%B7_Flask_%C2%B7_ML-0d1117?style=flat-square&labelColor=0d1117&color=FF6B35"/>
+<img src="https://img.shields.io/badge/Status-Open_to_Work-2ECC71?style=flat-square&labelColor=0d1117"/>
+
 </div>
 
 <img src="images/divider.svg" width="100%"/>
@@ -23,6 +30,8 @@ I'm **Arun Das**, a recently graduated **MCA (2026)** from **Mar Athanasius Coll
 role:        MCA Graduate (2026) & Software Developer
 focus:       [AI/ML Integration, Full-Stack Web, Deep Learning]
 location:    Kattappana, Idukki, Kerala, India
+open_to:     Kochi · Bangalore · Chennai · Trivandrum · Remote
+targeting:   [AI/ML Engineer, Full-Stack Developer, Data Scientist]
 status:      🟢 Open to Full-time Opportunities & Collaborations
 currently:   Shipping intelligent, deployed web applications
 ```
@@ -33,20 +42,58 @@ currently:   Shipping intelligent, deployed web applications
 
 <div align="center">
 <img src="images/skills-marquee.svg" width="100%"/>
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,flask,vite,mongodb,sqlite,mysql,git,github,vscode,aws,docker" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/YOLOv8-111F68?style=flat-square&logo=yolo&logoColor=white"/>
-<img src="https://img.shields.io/badge/EfficientNet--B0-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/XGBoost-1560BD?style=flat-square&logo=xgboost&logoColor=white"/>
-<img src="https://img.shields.io/badge/Claude%20API-D97757?style=flat-square&logo=anthropic&logoColor=white"/>
 </div>
+
+<table>
+<tr>
+<td valign="top" width="15%"><b>Languages</b></td>
+<td valign="top">
+<img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB"/> &nbsp;&nbsp; 
+<img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E"/> &nbsp;&nbsp; 
+<img src="https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=E34F26"/> &nbsp;&nbsp; 
+<img src="https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=1572B6"/>
+</td>
+</tr>
+<tr>
+<td valign="top"><b>Frontend</b></td>
+<td valign="top">
+<img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB"/> &nbsp;&nbsp; 
+<img src="https://img.shields.io/badge/Vite-0d1117?style=flat-square&logo=vite&logoColor=646CFF"/> &nbsp;&nbsp; 
+<img src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=339933"/>
+</td>
+</tr>
+<tr>
+<td valign="top"><b>AI / ML / DL</b></td>
+<td valign="top">
+<img src="https://img.shields.io/badge/YOLOv8-0d1117?style=flat-square&logo=yolo&logoColor=F7931E"/> &nbsp;&nbsp; 
+<img src="https://img.shields.io/badge/EfficientNet--B0-0d1117?style=flat-square&logo=tensorflow&logoColor=FF6F00"/> &nbsp;&nbsp; 
+<img src="https://img.shields.io/badge/PyTorch-0d1117?style=flat-square&logo=pytorch&logoColor=EE4C2C"/> &nbsp;&nbsp; 
+<img src="https://img.shields.io/badge/OpenCV-0d1117?style=flat-square&logo=opencv&logoColor=5C3EE8"/> &nbsp;&nbsp; 
+<img src="https://img.shields.io/badge/Scikit--Learn-0d1117?style=flat-square&logo=scikitlearn&logoColor=F7931E"/> &nbsp;&nbsp; 
+<img src="https://img.shields.io/badge/XGBoost-0d1117?style=flat-square&logo=xgboost&logoColor=FF6B35"/> &nbsp;&nbsp; 
+<img src="https://img.shields.io/badge/Claude%20API-0d1117?style=flat-square&logo=anthropic&logoColor=D97757"/>
+</td>
+</tr>
+<tr>
+<td valign="top"><b>Backend & Data</b></td>
+<td valign="top">
+<img src="https://img.shields.io/badge/Flask-0d1117?style=flat-square&logo=flask&logoColor=white"/> &nbsp;&nbsp; 
+<img src="https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=47A248"/> &nbsp;&nbsp; 
+<img src="https://img.shields.io/badge/SQLite-0d1117?style=flat-square&logo=sqlite&logoColor=07405e"/> &nbsp;&nbsp; 
+<img src="https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=4479A1"/>
+</td>
+</tr>
+<tr>
+<td valign="top"><b>Infra & Tools</b></td>
+<td valign="top">
+<img src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED"/> &nbsp;&nbsp; 
+<img src="https://img.shields.io/badge/AWS-0d1117?style=flat-square&logo=amazonaws&logoColor=FF9900"/> &nbsp;&nbsp; 
+<img src="https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032"/> &nbsp;&nbsp; 
+<img src="https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=white"/> &nbsp;&nbsp; 
+<img src="https://img.shields.io/badge/VS%20Code-0d1117?style=flat-square&logo=visualstudiocode&logoColor=007ACC"/>
+</td>
+</tr>
+</table>
 
 <img src="images/divider.svg" width="100%"/>
 
@@ -93,8 +140,8 @@ YOLOv8n for real-time object localisation + a fine-tuned EfficientNet-B0 classif
 
 <img src="images/metrics-object-detection.svg" width="100%"/>
 
-<a href="#"><img src="https://img.shields.io/badge/Live%20Demo-add--link-FF6B35?style=flat-square&logo=vercel&logoColor=white"/></a>
-<a href="https://github.com/itsmearundas/object-detection"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://itsmearundas.github.io/Detecting-and-classifying-multiple-objects-in-images-and-videos/#download"><img src="https://img.shields.io/badge/Live%20Demo-Online-2ECC71?style=flat-square&logo=vercel&logoColor=white"/></a>
+<a href="https://github.com/itsmearundas/Detecting-and-classifying-multiple-objects-in-images-and-videos"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
 </td>
 </tr>
@@ -111,7 +158,7 @@ Random Forest vs. XGBoost comparison on 30,000 records from the UCI Taiwan Credi
 <img src="images/metrics-credit-default.svg" width="100%"/>
 
 <a href="#"><img src="https://img.shields.io/badge/Live%20Demo-add--link-FF6B35?style=flat-square&logo=vercel&logoColor=white"/></a>
-<a href="https://github.com/itsmearundas/credit-default"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://github.com/itsmearundas/Credit-Card-Default-prediction"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
 </td>
 </tr>
@@ -130,7 +177,7 @@ MirrorMind (an AI journal that builds your psychological profile) meets Argument
 - 🥊 Real-time debate Arena via Socket.io
 
 <a href="#"><img src="https://img.shields.io/badge/Live%20Demo-add--link-FF6B35?style=flat-square&logo=vercel&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Source-add--link-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://github.com/itsmearundas/innerforge"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
 </td>
 <td width="50%" valign="top">
@@ -146,8 +193,8 @@ Node.js + Express + Socket.io backend with a React frontend — QR-code device p
 - 💬 Real-time group chat during transfer
 - 🔐 Role-based admin/guest access
 
-<a href="#"><img src="https://img.shields.io/badge/Live%20Demo-add--link-FF6B35?style=flat-square&logo=vercel&logoColor=white"/></a>
-<a href="https://github.com/itsmearundas/LocalDrop"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://localdrop-f9fj.onrender.com/"><img src="https://img.shields.io/badge/Live%20Demo-Online-2ECC71?style=flat-square&logo=render&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Source-add--link-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
 </td>
 </tr>
@@ -156,6 +203,25 @@ Node.js + Express + Socket.io backend with a React frontend — QR-code device p
 <div align="center">
 <sub>💡 Badges marked <code>add-link</code> are placeholders for the remaining live URLs / repos — swap them in once you paste those in.</sub>
 </div>
+
+<details>
+<summary><b>📦 More Projects & Experiments</b> — click to expand</summary>
+<br/>
+
+| Project | Stack | Notes | Live |
+|---|---|---|---|
+| **VaultLock** | Python · Tkinter · bcrypt | Encrypted file locker with a decoy vault, nuke password, and in-app gallery | [Demo](https://itsmearundas.github.io/Vault-Lock/) |
+| **PDFForge** | HTML · Canvas | Browser-based JPG-to-PDF converter with a canvas-based editor, single file | [Demo](https://itsmearundas.github.io/PDFForge/) |
+| **TypeForge** | — | Typing practice / test app | [Demo](https://itsmearundas.github.io/TypeForge/) |
+| **ExamBuddy** | — | Study/exam-prep tool | — |
+| **Group Discussion Platform** | Node.js · React · MySQL | Structured group-discussion practice platform | — |
+| **M3U8 Downloader** | Python · Tkinter | GUI downloader with progress bar and force-kill | — |
+| **AI API Chatbot** | Python | Chatbot built directly on an LLM API | — |
+| **Database Management App** | PHP · MySQL | CRUD-driven admin/records tool | — |
+| **Job Portal (Mobile)** | Kotlin · Jetpack Compose · SQLite | Native Android job-portal client | — |
+| **Job Portal (Web)** | Spring Boot · React · JWT | Full-stack job portal with JWT-based auth | — |
+
+</details>
 
 <img src="images/divider.svg" width="100%"/>
 
@@ -178,6 +244,14 @@ Node.js + Express + Socket.io backend with a React frontend — QR-code device p
 | ☁️ | **Cloud Computing Workshop** | 5-day intensive on AWS, VM management, security & CI/CD — IIIT Kottayam × Educ Kshetra | 2025 |
 | 🛡️ | **MOOC Certificate** | Privacy and Security in Online Social Media | 2024 |
 | 🔌 | **IoT Workshop** | Hands-on IoT workshop — MACE × Ernst & Young | 2024 |
+
+<img src="images/divider.svg" width="100%"/>
+
+## 🏅 GitHub Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=itsmearundas&theme=radical&no-frame=true&no-bg=false&margin-w=8&row=1&column=7" />
+</div>
 
 <img src="images/divider.svg" width="100%"/>
 
