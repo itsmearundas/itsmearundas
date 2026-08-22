@@ -43,6 +43,31 @@ currently:   Shipping intelligent, deployed web applications
 <div align="center">
 <img src="images/skills-marquee.svg" width="100%"/>
 </div>
+<<<<<<< HEAD
+=======
+
+**Languages & Web**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,vite" />
+
+**AI / ML / Deep Learning**
+<br/>
+<img src="https://img.shields.io/badge/YOLOv8-111F68?style=flat-square&logo=yolo&logoColor=white"/>
+<img src="https://img.shields.io/badge/EfficientNet--B0-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/XGBoost-1560BD?style=flat-square&logo=xgboost&logoColor=white"/>
+<img src="https://img.shields.io/badge/Claude%20API-D97757?style=flat-square&logo=anthropic&logoColor=white"/>
+
+**Backend, Data & Infra**
+<br/>
+<img src="https://skillicons.dev/icons?i=flask,mongodb,sqlite,mysql,docker,aws" />
+
+**Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+>>>>>>> 6a587b83b03f348ef89403f0f8becbc3faded909
 
 <table>
 <tr>
@@ -140,7 +165,15 @@ YOLOv8n for real-time object localisation + a fine-tuned EfficientNet-B0 classif
 
 <img src="images/metrics-object-detection.svg" width="100%"/>
 
+<<<<<<< HEAD
 <a href="https://itsmearundas.github.io/Detecting-and-classifying-multiple-objects-in-images-and-videos/#download"><img src="https://img.shields.io/badge/Live%20Demo-Online-2ECC71?style=flat-square&logo=vercel&logoColor=white"/></a>
+=======
+<<<<<<< HEAD
+<a href="https://itsmearundas.github.io/Detecting-and-classifying-multiple-objects-in-images-and-videos/#download"><img src="https://img.shields.io/badge/Live%20Demo-Online-2ECC71?style=flat-square&logo=vercel&logoColor=white"/></a>
+=======
+<a href="#"><img src="https://img.shields.io/badge/Live%20Demo-add--link-FF6B35?style=flat-square&logo=vercel&logoColor=white"/></a>
+>>>>>>> 43803b3cb4b7b3a8e73f2650e69651e81f019e60
+>>>>>>> 6a587b83b03f348ef89403f0f8becbc3faded909
 <a href="https://github.com/itsmearundas/Detecting-and-classifying-multiple-objects-in-images-and-videos"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
 </td>
@@ -193,7 +226,15 @@ Node.js + Express + Socket.io backend with a React frontend — QR-code device p
 - 💬 Real-time group chat during transfer
 - 🔐 Role-based admin/guest access
 
+<<<<<<< HEAD
 <a href="https://localdrop-f9fj.onrender.com/"><img src="https://img.shields.io/badge/Live%20Demo-Online-2ECC71?style=flat-square&logo=render&logoColor=white"/></a>
+=======
+<<<<<<< HEAD
+<a href="https://localdrop-f9fj.onrender.com/"><img src="https://img.shields.io/badge/Live%20Demo-Online-2ECC71?style=flat-square&logo=render&logoColor=white"/></a>
+=======
+<a href="#"><img src="https://img.shields.io/badge/Live%20Demo-add--link-FF6B35?style=flat-square&logo=vercel&logoColor=white"/></a>
+>>>>>>> 43803b3cb4b7b3a8e73f2650e69651e81f019e60
+>>>>>>> 6a587b83b03f348ef89403f0f8becbc3faded909
 <a href="#"><img src="https://img.shields.io/badge/Source-add--link-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
 </td>
@@ -208,6 +249,10 @@ Node.js + Express + Socket.io backend with a React frontend — QR-code device p
 <summary><b>📦 More Projects & Experiments</b> — click to expand</summary>
 <br/>
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 6a587b83b03f348ef89403f0f8becbc3faded909
 | Project | Stack | Notes | Live |
 |---|---|---|---|
 | **VaultLock** | Python · Tkinter · bcrypt | Encrypted file locker with a decoy vault, nuke password, and in-app gallery | [Demo](https://itsmearundas.github.io/Vault-Lock/) |
@@ -220,6 +265,21 @@ Node.js + Express + Socket.io backend with a React frontend — QR-code device p
 | **Database Management App** | PHP · MySQL | CRUD-driven admin/records tool | — |
 | **Job Portal (Mobile)** | Kotlin · Jetpack Compose · SQLite | Native Android job-portal client | — |
 | **Job Portal (Web)** | Spring Boot · React · JWT | Full-stack job portal with JWT-based auth | — |
+<<<<<<< HEAD
+=======
+=======
+| Project | Stack | Notes |
+|---|---|---|
+| **VaultLock** | Python · Tkinter · bcrypt | Encrypted file locker with a decoy vault, nuke password, and in-app gallery |
+| **ExamBuddy** | — | Study/exam-prep tool |
+| **Group Discussion Platform** | Node.js · React · MySQL | Structured group-discussion practice platform |
+| **M3U8 Downloader** | Python · Tkinter | GUI downloader with progress bar and force-kill |
+| **AI API Chatbot** | Python | Chatbot built directly on an LLM API |
+| **Database Management App** | PHP · MySQL | CRUD-driven admin/records tool |
+| **Job Portal (Mobile)** | Kotlin · Jetpack Compose · SQLite | Native Android job-portal client |
+| **Job Portal (Web)** | Spring Boot · React · JWT | Full-stack job portal with JWT-based auth |
+>>>>>>> 43803b3cb4b7b3a8e73f2650e69651e81f019e60
+>>>>>>> 6a587b83b03f348ef89403f0f8becbc3faded909
 
 </details>
 
