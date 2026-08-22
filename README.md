@@ -71,7 +71,6 @@ currently:   Shipping intelligent, deployed web applications
 <img src="https://img.shields.io/badge/OpenCV-0d1117?style=flat-square&logo=opencv&logoColor=5C3EE8"/> &nbsp;&nbsp; 
 <img src="https://img.shields.io/badge/Scikit--Learn-0d1117?style=flat-square&logo=scikitlearn&logoColor=F7931E"/> &nbsp;&nbsp; 
 <img src="https://img.shields.io/badge/XGBoost-0d1117?style=flat-square&logo=xgboost&logoColor=FF6B35"/> &nbsp;&nbsp; 
-<img src="https://img.shields.io/badge/Claude%20API-0d1117?style=flat-square&logo=anthropic&logoColor=D97757"/>
 </td>
 </tr>
 <tr>
