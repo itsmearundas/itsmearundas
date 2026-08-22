@@ -13,7 +13,7 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/Projects_Shipped-5+-0d1117?style=flat-square&labelColor=0d1117&color=FF6B35"/>
+<img src="https://img.shields.io/badge/Projects_Shipped-7+-0d1117?style=flat-square&labelColor=0d1117&color=FF6B35"/>
 <img src="https://img.shields.io/badge/Detection_Accuracy-85.41%25-0d1117?style=flat-square&labelColor=0d1117&color=F7931E"/>
 <img src="https://img.shields.io/badge/Stack-React_%C2%B7_Flask_%C2%B7_ML-0d1117?style=flat-square&labelColor=0d1117&color=FF6B35"/>
 <img src="https://img.shields.io/badge/Status-Open_to_Work-2ECC71?style=flat-square&labelColor=0d1117"/>
@@ -198,6 +198,34 @@ Node.js + Express + Socket.io backend with a React frontend — QR-code device p
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📄 PDFForge — JPG to PDF Converter
+*Browser-based utility — Canvas*
+
+A single-file, browser-based converter that turns images into PDFs with an in-browser canvas editor for cropping and reordering pages before export. No backend, no upload — everything runs client-side.
+
+**Stack:** HTML5 · CSS3 · JavaScript · Canvas API
+
+<a href="https://itsmearundas.github.io/PDFForge/"><img src="https://img.shields.io/badge/Live%20Demo-Online-2ECC71?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://github.com/itsmearundas/PDFForge"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white"/></a>
+
+</td>
+<td width="50%" valign="top">
+
+### ⌨️ TypeForge — Typing Practice App
+*Browser-based utility · 2025*
+
+A typing speed and accuracy trainer with live WPM tracking, error highlighting, and practice sessions — built as a fast, dependency-light front-end app.
+
+**Stack:** HTML5 · CSS3 · JavaScript
+
+<a href="https://itsmearundas.github.io/TypeForge/"><img src="https://img.shields.io/badge/Live%20Demo-Online-2ECC71?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://github.com/itsmearundas/TypeForge"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white"/></a>
+
+</td>
+</tr>
 </table>
 
 <div align="center">
@@ -211,8 +239,6 @@ Node.js + Express + Socket.io backend with a React frontend — QR-code device p
 | Project | Stack | Notes | Live |
 |---|---|---|---|
 | **VaultLock** | Python · Tkinter · bcrypt | Encrypted file locker with a decoy vault, nuke password, and in-app gallery | [Demo](https://itsmearundas.github.io/Vault-Lock/) |
-| **PDFForge** | HTML · Canvas | Browser-based JPG-to-PDF converter with a canvas-based editor, single file | [Demo](https://itsmearundas.github.io/PDFForge/) |
-| **TypeForge** | — | Typing practice / test app | [Demo](https://itsmearundas.github.io/TypeForge/) |
 | **ExamBuddy** | — | Study/exam-prep tool | — |
 | **Group Discussion Platform** | Node.js · React · MySQL | Structured group-discussion practice platform | — |
 | **M3U8 Downloader** | Python · Tkinter | GUI downloader with progress bar and force-kill | — |
