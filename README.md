@@ -302,7 +302,7 @@ A typing speed and accuracy trainer with live WPM tracking, error highlighting, 
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=itsmearundas&theme=radical&hide_border=true&background=0d1117&ring=FF6B35&fire=F7931E&sideLabels=c8d8e8&dates=5a586e" width="70%" />
+<img src="https://streak-stats.demolab.com/?user=itsmearundas&theme=radical&hide_border=true&background=0d1117&ring=FF6B35&fire=F7931E&sideLabels=c8d8e8&dates=5a586e" width="70%" />
 
 <br/><br/>
 <sub>⚠️ If a stats card above shows as a broken image, it's the shared public server hitting a rate limit, not your data — refresh in a minute.</sub>
