@@ -257,7 +257,7 @@ A typing speed and accuracy trainer with live WPM tracking, error highlighting, 
 | **🎓 Master of Computer Applications (MCA)** — *Graduated* | **📘 Bachelor of Computer Applications (BCA)** |
 | Mar Athanasius College of Engineering (MACE) | MES College |
 | APJ Abdul Kalam Technological University | Mahatma Gandhi University |
-| Aug 2024 — May 2026 · CGPA 7.75/10 | Aug 2021 — Mar 2024 · CGPA 6.36/10 |
+| Aug 2024 — May 2026 · CGPA 7.99/10 | Aug 2021 — Mar 2024 · CGPA 6.36/10 |
 
 <img src="images/divider.svg" width="100%"/>
 
